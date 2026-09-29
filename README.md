@@ -5,4 +5,5 @@ We have different technologies in DevOps:
 -	Linux
 -	GIT
 -	Terraform
--   	Docker
+-	K8s
+-   Docker

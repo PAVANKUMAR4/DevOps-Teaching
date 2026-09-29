@@ -8,3 +8,4 @@ We have different technologies in DevOps:
 -	K8s
 -   	Docker
 - 	GitOps
+-   ArgoCD
